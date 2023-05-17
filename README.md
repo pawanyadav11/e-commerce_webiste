@@ -1,1 +1,1 @@
-# e-commerce_webiste
+This is fully responsive website created Using Html, CSS & Javascript. This website design will be completely responsive for all screen devices like mobile phones. It is E-Commerce Website for clothes shop or clothes store. This E-Commerce website consist of Home page, Shop page, Blog page, About page, Contact page & Cart page.
